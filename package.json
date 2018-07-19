@@ -1,0 +1,12 @@
+{
+  "name": "scrabble",
+  "version": "1.0.0",
+  "description": "Given a word, returns its score",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node app.js"
+  },
+  "author": "Crablet",
+  "license": "ISC"
+}
