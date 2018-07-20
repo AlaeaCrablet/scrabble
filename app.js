@@ -80,4 +80,3 @@ rl.question('Enter a word to scorecheck ', (rawInput) => {
     console.log(`${userInput} earns ${points} points`);
     console.timeEnd('Time Spent');
 });
-
